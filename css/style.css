@@ -26,23 +26,6 @@ body{
 	color: white;
 }
 
-@media screen and (max-width: 1000px){
-	.online {
-		background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
-	}
-
-	.online-me {
-		background: url('../img/puma.jpg') 50% 0 no-repeat fixed;
-	}
-	
-	#cv {
-		padding-top: 70px;
-		background: url('../img/c1.jpg') 10% 0 no-repeat fixed;
-		color: red;
-	}
-}
-
-
 .online {
 	background: url('../img/uAa.jpg') 100% 0 no-repeat fixed;
 	
@@ -147,4 +130,20 @@ body{
 
 #footer a:hover {
 	color: #f9690e;
+}
+
+@media screen and (max-width: 1000px){
+	.online {
+		background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
+	}
+
+	.online-me {
+		background: url('../img/puma.jpg') 50% 0 no-repeat fixed;
+	}
+	
+	#cv {
+		padding-top: 70px;
+		background: url('../img/c1.jpg') 10% 0 no-repeat fixed;
+		color: red;
+	}
 }

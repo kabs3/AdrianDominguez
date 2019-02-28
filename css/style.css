@@ -26,13 +26,30 @@ body{
 	color: white;
 }
 
+@media screen and (max-width: 800px)
+{
+	.online {
+		background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
+	}
+
+	.online-me {
+		background: url('../img/puma.jpg') 50% 0 no-repeat fixed;
+	}
+	#cv {
+		padding-top: 70px;
+		background: url('../img/c1.jpg') 10% 0 no-repeat fixed;
+		color: white;
+	}
+}
+
+
 .online {
-	background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
+	background: url('../img/uAa.jpg') 100% 0 no-repeat fixed;
 	
 }
 
 .online-me {
-	background: url('../img/puma.jpg') 50% 0 no-repeat fixed;
+	background: url('../img/pumaA.jpg') 50% 0 no-repeat fixed;
 }
 
 #instructor{
@@ -82,7 +99,7 @@ body{
 
 #cv {
 	padding-top: 70px;
-	background: url('../img/c1.jpg') 10% 0 no-repeat fixed;
+	background: url('../img/c1a.jpg') 10% 0 no-repeat fixed;
 	color: white;
 }
 

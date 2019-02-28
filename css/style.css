@@ -1,0 +1,133 @@
+body{
+	padding-top: 50px;
+}
+
+#titulo .jumbotron{
+	background: url('../img/pum.jpg') 20% 0 no-repeat fixed;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: white;
+	height: 350px;
+}
+
+#personal {
+	text-align: center;
+	background: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#new {
+	text-align: center;
+	background: #375E97;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+}
+
+.online {
+	background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
+	
+}
+
+.online-me {
+	background: url('../img/puma.jpg') 50% 0 no-repeat fixed;
+}
+
+#instructor{
+	font-family: roboto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: white;
+}
+
+#instructor .right-side{
+	padding-top: 50px;
+	text-align: justify;
+}
+
+.badge.social{
+	background: #95A5A6;
+	font-size: 20px;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	line-height: 35px;
+	margin-top: 5px;
+	padding: 0;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	border-radius: 35px;
+	color: white;
+}
+
+.badge.social.twitter:hover{
+	background: #55ACEE;
+};
+
+.badge.social.linkedin:hover{
+	background: #4875b4;
+}
+
+.badge.social.blog:hover{
+	background: #26c281;
+}
+
+#horario img{
+	display: block;
+	margin: auto;
+}
+
+#cv {
+	padding-top: 70px;
+	background: url('../img/c1.jpg') 10% 0 no-repeat fixed;
+	color: white;
+}
+
+#cvC{
+	margin-bottom: 50px;
+	font-family: roboto;
+}
+
+#botonE {
+	margin-bottom: 50px;
+}
+
+#botonCV {
+	width: 400px;
+	height: 60px;
+	display: block;
+	margin: auto;
+}
+
+#footer {
+	padding: 20px;
+	background: #22313f;
+	color: white;
+	text-align: center;
+}
+
+.articulo {
+	padding-top: 5px;
+	background: #A1D6E2;
+}
+
+.articulo img {
+	display: block;
+	margin: auto;	
+}
+
+.contenido {
+	background: white;
+	text-align: justify;
+}
+
+#footer a {
+	color: #f5ab35;
+}
+
+#footer a:hover {
+	color: #f9690e;
+}

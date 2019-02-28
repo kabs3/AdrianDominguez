@@ -26,7 +26,7 @@ body{
 	color: white;
 }
 
-@media screen and (max-width: 800px)
+@media screen and (max-width: 1000px)
 {
 	.online {
 		background: url('../img/uA.jpg') 100% 0 no-repeat fixed;
